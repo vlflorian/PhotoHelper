@@ -10,3 +10,8 @@ This is faster than going through the RAW files + as a Fuji shooter, most times 
 
 ### border-tool
 This adds white borders to images so they have an 1:1 aspect ratio. Useful for posting to Instagram.
+
+## Usage examples
+`$ photohelper add-border -d . --border-size 2`
+
+`$ photohelper rawcleanup -v -d . --rawExtension RAF`   
